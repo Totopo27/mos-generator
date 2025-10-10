@@ -15,11 +15,6 @@ Un generador web de escalas musicales *Moments of Symmetry* (MOS), basado en las
 3. Ingresa los valores de período y generador
 4. Haz clic en **"Calcular MOS"** para generar las escalas
 
-## 📖 Ejemplos de Uso
-
-* **Escala Diatónica**: Período: 12, Generador: 7
-* **Escala Pentatónica**: Período: 5, Generador: 2
-
 ## 📄 Licencia
 
 Este proyecto está licenciado bajo la **Eclipse Public License 2.0** — consulta el archivo [LICENSE](LICENSE) para más detalles.
