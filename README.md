@@ -1,30 +1,30 @@
-# MOS Generator - Legacy Version
+# Generador MOS - Versión Legacy
 
-A web-based generator for Moments of Symmetry (MOS) musical scales based on Erv Wilson's theories.
+Un generador web de escalas musicales *Moments of Symmetry* (MOS), basado en las teorías de Erv Wilson.
 
-## 🎵 Features
+## 🎵 Características
 
-- Generate primary MOS scales from period and generator values
-- Calculate secondary MOS scales
-- Clean, responsive interface
-- Educational tool for music theory
+* Genera escalas MOS primarias a partir de valores de período y generador
+* Calcula escalas MOS secundarias
+* Interfaz limpia y adaptable
+* Herramienta educativa para teoría musical
 
-## 🚀 Quick Start
+## 🚀 Inicio Rápido
 
-1. Clone this repository
-2. Open `index.html` in your web browser
-3. Enter period and generator values
-4. Click "Calcular MOS" to generate scales
+1. Clona este repositorio
+2. Abre el archivo `index.html` en tu navegador web
+3. Ingresa los valores de período y generador
+4. Haz clic en **"Calcular MOS"** para generar las escalas
 
-## 📖 Usage Examples
+## 📖 Ejemplos de Uso
 
-- **Diatonic Scale**: Period: 12, Generator: 7
-- **Pentatonic Scale**: Period: 5, Generator: 2
+* **Escala Diatónica**: Período: 12, Generador: 7
+* **Escala Pentatónica**: Período: 5, Generador: 2
 
-## 📄 License
+## 📄 Licencia
 
-This project is licensed under the Eclipse Public License 2.0 - see the [LICENSE](LICENSE) file for details.
+Este proyecto está licenciado bajo la **Eclipse Public License 2.0** — consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-## 🙏 Attribution
+## 🙏 Atribución
 
-Based on original work from [erv-web](https://github.com/diegovdc/erv-web).
+Basado en el trabajo original de [erv-web](https://github.com/diegovdc/erv-web).
