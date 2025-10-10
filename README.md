@@ -1,5 +1,4 @@
-# Generador MOS - Versión Legacy
-
+# Generador MOS
 Un generador web de escalas musicales *Moments of Symmetry* (MOS), basado en las teorías de Erv Wilson.
 
 ## 🎵 Características
